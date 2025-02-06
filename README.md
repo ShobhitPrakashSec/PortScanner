@@ -3,11 +3,8 @@ A simple Python-based Port Scanner that scans a target IP for open ports. This t
 
 ## Features
 ✔️ Scans a range of ports on a target IP/hostname
-
 ✔️ Uses Python’s built-in `socket` module
-
 ✔️ Displays open ports in real-time
-
 ✔️ Easy to use and beginner-friendly
 
 ## Installation & Usage
