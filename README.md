@@ -2,10 +2,10 @@
 A simple Python-based Port Scanner that scans a target IP for open ports. This tool is useful for learning about networking and security scanning techniques.
 
 ## Features
-✔️ Scans a range of ports on a target IP/hostname
-✔️ Uses Python’s built-in `socket` module
-✔️ Displays open ports in real-time
-✔️ Easy to use and beginner-friendly
+- ✔️ Scans a range of ports on a target IP/hostname
+- ✔️ Uses Python’s built-in `socket` module
+- ✔️ Displays open ports in real-time
+- ✔️ Easy to use and beginner-friendly
 
 ## Installation & Usage
 
@@ -33,7 +33,7 @@ Enter target IP or hostname: scanme.nmap.org
 Enter start port: 1  
 Enter end port: 1000  
 ```
-![Port Scanner in Action]("Screenshots/screenshot1.png")
+![Port Scanner in Action]("D:/Projects/PortScanner/Screenshots/screenshot1.png")
 
 ## How It Works
 1. The script takes an IP address or Hostname as input.
@@ -46,9 +46,9 @@ Enter end port: 1000
 
 ## Contributing
 Want to improve this project? Feel free to:
-✅ Add multi-threading for faster scanning
-✅ Enhance the output format
-✅ Save scan results to a file
+- ✅ Add multi-threading for faster scanning
+- ✅ Enhance the output format
+- ✅ Save scan results to a file
 
 Fork this repo and submit a pull request!
 
