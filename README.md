@@ -33,7 +33,6 @@ Enter target IP or hostname: scanme.nmap.org
 Enter start port: 1  
 Enter end port: 1000  
 ```
-![Port Scanner in Action]("Screenshots\test.png")
 
 ## How It Works
 1. The script takes an IP address or Hostname as input.
@@ -54,3 +53,5 @@ Fork this repo and submit a pull request!
 
 ## Contact
 Got questions? Reach out to me via **GitHub Issues** or **email**!
+
+[portScannerImage]: "Screenshots/test.png"
